@@ -6,6 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis:latest
 mysql:latest
-nacos:latest
-zookeeper:3.4.14
-wurstmeister/kafka:2.12-2.3.1
+nacos/nacos-server
+zookeeper:3.8.0
+confluentinc/cp-kafka:7.0.1
