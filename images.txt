@@ -9,3 +9,4 @@ mysql:latest
 nacos/nacos-server
 zookeeper:3.8.0
 confluentinc/cp-kafka:7.0.1
+openjdk:11
